@@ -1,0 +1,15 @@
+server:
+  port: 8080
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/hainan
+    username: root
+    password: root
+    driver-class-name: com.mysql.jdbc.Driver
+#  mvc:
+#    view:
+#      prefix: /templates
+#      suffix: .ftl
+mybatis:
+  mapper-locations: classpath:mapper/*.xml
+  type-aliases-package: com.niit.hainan.webproject.domain
