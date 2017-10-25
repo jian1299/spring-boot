@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9cad72b7-e439-423b-9fec-7b1a0f5c2cd4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Screenshots/主页面.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Screenshots/增加人员.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Screenshots/无账号登陆.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Screenshots/登陆--密码错误.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Screenshots/登陆--账号不存在.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Screenshots/登陆.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Screenshots/编辑人员.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="9cad72b7-e439-423b-9fec-7b1a0f5c2cd4" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -157,7 +148,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="415" />
     <option name="width" value="872" />
     <option name="height" value="735" />
@@ -543,7 +534,7 @@
       <workItem from="1508808813208" duration="22642000" />
       <workItem from="1508838089287" duration="39000" />
       <workItem from="1508838199077" duration="6029000" />
-      <workItem from="1508897252786" duration="1251000" />
+      <workItem from="1508897252786" duration="1511000" />
     </task>
     <servers />
   </component>
@@ -580,10 +571,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63276000" />
+    <option name="totallyTimeSpent" value="63536000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
